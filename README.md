@@ -6,4 +6,4 @@ There are two use cases derived with these two applications:
 1. Run both applications together (subscriber first) to observe live production and consumption of 10,000 messages.
 2. Run publisher first and let it complete the process, and then bring on the subscriber to observe whether it consumes the 10,000 messages.
 
-The report for this can be found under the MQTT Assignment Report folder.
+The report for this can be found in the MQTT Assignment Report file.
